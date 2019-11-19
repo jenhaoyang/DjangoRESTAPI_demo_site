@@ -9,7 +9,7 @@
             "name": "Django Demo",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}/02-WEB-APIs/First_API_Django/onlinestore/manage.py",
+            "program": "${workspaceFolder}/03-DRF-LEVEL-ONE/First_API_Django/onlinestore/manage.py",
             "console": "integratedTerminal",
             "args": [
                 "runserver"

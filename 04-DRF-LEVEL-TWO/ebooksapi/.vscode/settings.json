@@ -1,7 +1,7 @@
 {
-    "python.pythonPath": "/home/u18/Documents/DjangoRESTAPI_demo_site/04-DRF-LEVEL-TWO/venv/bin/python",
-    "python.venvPath": "/home/u18/Documents/DjangoRESTAPI_demo_site/04-DRF-LEVEL-TWO/venv",
+    "python.pythonPath": "/workspace/DjangoRESTAPI_demo_site/04-DRF-LEVEL-TWO/venv/bin/python3",
+    "python.venvPath": "/workspace/DjangoRESTAPI_demo_site/04-DRF-LEVEL-TWO/venv",
     "python.venvFolders": [
-        "/home/u18/Documents/DjangoRESTAPI_demo_site/04-DRF-LEVEL-TWO/venv"
+        "/workspace/DjangoRESTAPI_demo_site/04-DRF-LEVEL-TWO/venv"
     ],
 }

@@ -1,5 +1,5 @@
 chardet==3.0.4
-Django==2.2.7
+Django==2.2.22
 django-allauth==0.40.0
 django-auth==0.1.9
 django-rest-auth==0.9.5
